@@ -3,7 +3,8 @@ Sistem Auto de Stabilizare și Iluminare Automată
 
 Acest proiect reprezintă un prototip pentru un sistem de faruri inteligente. Dispozitivul menține farurile la nivel orizontal indiferent de înclinația mașinii și aprinde automat faza scurtă atunci când detectează întuneric.
 
-__Prezentare Video__
+### Video Proiect
+[![Proiect Videoclip](https://img.youtube.com/vi/m3hOUEz6ric/maxresdefault.jpg)](https://youtu.be/m3hOUEz6ric)
 
 __Cum funcționează?__
 Stabilizarea: Senzorul de înclinație măsoară unghiul mașinii. 
